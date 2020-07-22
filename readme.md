@@ -8,6 +8,6 @@
 
 **Setup Instructions:** _uhhh I was told to include this but I'm not sure what to put here_
 
-**Github Pages Link:**
+**GitHub Pages Link:** _https://chrisramer.github.io/ind-project-1/_
 
 **Copyright info:** _Mine!_ **ALL MINE**
