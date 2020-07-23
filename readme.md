@@ -13,7 +13,7 @@ Can be viewed at: https://chrisramer.github.io/ind-project-1/
 
 Clone this repo to your desktop.
 
-Open the folder named "Independent-Project-1" and double click `index.html` to open it in browser.
+Open the folder named "Ind-Project-1" and double click `index.html` to open it in browser.
 
 ## Technologies Used
 
