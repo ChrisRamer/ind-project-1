@@ -7,10 +7,13 @@
 ## Description
 
 Independent project showing my knowledge of Git, HTML, & CSS. An example portfolio for myself.
+Can be viewed at: https://chrisramer.github.io/ind-project-1/
 
 ## Setup/Installation Requirements
 
-Clone this repo.
+Clone this repo to your desktop.
+
+Open the folder named "Independent-Project-1" and double click `index.html` to open it in browser.
 
 ## Technologies Used
 
